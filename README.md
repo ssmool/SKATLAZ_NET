@@ -1,6 +1,6 @@
-# SKA_SNET}$ Mock SVN - Proxy System 🌐💾
+# SKATLAZ_NET Mock SVN - Proxy System 🌐💾
 
-The SKA_SNET project is a collection of Python scripts that simulate a simplified, centralized version of an SVN (Subversion) repository server SKATLAZ_NET and a "Geocities"-style proxy/redirector skatlaz\_geocities It models a basic administration flow for setting up a repository, managing user policies, and exposing the repository via a proxy service.
+The SKA_SNET(CODINAME_WAR) project is a collection of Python scripts that simulate a simplified, centralized version of an SVN (Subversion) repository server SKATLAZ_NET and a "Geocities"-style proxy/redirector skatlaz\_geocities It models a basic administration flow for setting up a repository, managing user policies, and exposing the repository via a proxy service.
 
 -----
 
