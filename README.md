@@ -1,6 +1,20 @@
+![Python SKA_SNET - SKATLAZ NET SVN](./skasnet.gif)
+
+-----
+
 # SKATLAZ_NET Mock SVN - Proxy System 🌐💾
 
 The SKA_SNET(CODINAME_WAR) project is a collection of Python scripts that simulate a simplified, centralized version of an SVN (Subversion) repository server SKATLAZ_NET and a "Geocities" proxy/redirector skatlaz\_geocities It models a basic administration flow for setting up a repository, managing user policies, and exposing the repository via a proxy service.
+
+**Version:** 1.0 Beta
+
+**Status:** Under Development  
+
+**Author:** #asytrick
+
+**Website:** [github.com/skatlaz_net](https://github.com/ssmool/skatlaz_net)  
+
+**Contact:** eusmool@gmail.com  
 
 -----
 
