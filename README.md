@@ -99,7 +99,7 @@ A Software House can use the SKA_SNET architecture as a prototype for a secure, 
 
 ### Prototype Scenario: "SkaTerra Development Hub"
 
-| $\text{SKA\_SNET}$ Component | Prototype Use Case | Impact on Digital Evolution |
+| SKA_SNET Component | Prototype Use Case | Impact on Digital Evolution |
 | :--- | :--- | :--- |
 | **Mock SVN Server (Port 6660)** | **Centralized Code Repository:** Hosts all project assets in dedicated, policy-controlled folders. | **Higher Economy/Living Quality** and **Costs:** All code is versioned and secured in one place, reducing server sprawl and infrastructure costs. Enables developers to work remotely with reliable access. |
 | **`_skatlaz_svn` Directory** | **Primary Source Code:** Used for current, stable project branches. | **Modernism:** Enforces structured development workflows required by modern software practice. |
