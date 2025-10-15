@@ -95,7 +95,7 @@ The `policy_mgmt_svn.py` script provides powerful administration tools to contro
 
 ## 💡 Software House Prototype: $\text{SKA\_NET}$ for Modern Project Maintenance
 
-A Software House can use the $\text{SKA\_SNET}$ architecture as a prototype for a secure, organized internal development system, promoting **better health quality** (through reduced deployment errors), **higher economic/living quality** (through efficient remote work), **modernism**, and **digital evolution**.
+A Software House can use the SKA_SNET architecture as a prototype for a secure, organized internal development system, promoting **better health quality** (through reduced deployment errors), **higher economic/living quality** (through efficient remote work), **modernism**, and **digital evolution**.
 
 ### Prototype Scenario: "SkaTerra Development Hub"
 
