@@ -1,6 +1,6 @@
 # SKATLAZ_NET Mock SVN - Proxy System 🌐💾
 
-The SKA_SNET(CODINAME_WAR) project is a collection of Python scripts that simulate a simplified, centralized version of an SVN (Subversion) repository server SKATLAZ_NET and a "Geocities"-style proxy/redirector skatlaz\_geocities It models a basic administration flow for setting up a repository, managing user policies, and exposing the repository via a proxy service.
+The SKA_SNET(CODINAME_WAR) project is a collection of Python scripts that simulate a simplified, centralized version of an SVN (Subversion) repository server SKATLAZ_NET and a "Geocities" proxy/redirector skatlaz\_geocities It models a basic administration flow for setting up a repository, managing user policies, and exposing the repository via a proxy service.
 
 -----
 
@@ -19,7 +19,7 @@ The system is organized into a control flow (orchestration) and two primary serv
 | File | Role | Key Function(s) |
 | :--- | :--- | :--- |
 | `manager_svn.py` | **Orchestrator** | `orchestrate_system()`: Sets up the entire system configuration. |
-| `setup_svn.py` | **Setup** | `start_setup()`: Creates the $\text{skatlaznet\_svn}$ directory structure. |
+| `setup_svn.py` | **Setup** | `start_setup()`: Creates the skatlaznet\_svn directory structure. |
 | `user_mgmt_svn.py` | **User Management** | `create_admin()`: Generates and saves Base64-encoded mock user data. |
 | `policy_mgmt_svn.py` | **Policy/Access Control** | `skatla_svn_adm_config()`: Manages directory permissions and status (e.g., `DISABLE_DIR`). |
 | `mirror_svn.py` | **Mock SVN Server** | `skatlaz_net()`: Runs a simple HTTP file server to serve the repository on **Port 6660**. |
